@@ -1,6 +1,6 @@
 using System;
 
-namespace PCClubBooking
+namespace PCClubBookingApp
 {
     class Program
     {
